@@ -1,0 +1,13 @@
+TCG SOP Wizard Clean 13 QA
+- ZIP is flat: upload all files directly to GitHub root.
+- Templates tab removed from the dashboard.
+- Dashboard now has 3 buttons: Create A New SOP, Saved SOPs, SOP Update Schedule.
+- Portrait dashboard keeps the same clean wizard dashboard look.
+- Landscape dashboard uses a dedicated two-column layout: full wizard image on the left, dashboard buttons centered on the right.
+- Landscape layout is targeted for sideways phones and tablets.
+- No hamburger/X menu.
+- Inner pages still use Back To Dashboard.
+- Create A New SOP opens at the top of the page.
+- SOP steps remain unlimited.
+- Multiple photos per step still work.
+- Export options remain at the bottom: Save Draft, Export HTML, Print / Save PDF.
